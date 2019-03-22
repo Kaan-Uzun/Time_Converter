@@ -1,0 +1,14 @@
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\DayTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\DayTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\nunit.framework.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\Simplify.Resources.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\Simplify.Windows.Forms.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\TimeToTime.exe
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\TimeToTime.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\nunit.framework.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\Simplify.Resources.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\Simplify.Windows.Forms.xml
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\obj\Debug\DayTests.csprojResolveAssemblyReference.cache
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\obj\Debug\DayTests.dll
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\obj\Debug\DayTests.pdb
+C:\Users\Okay\documents\visual studio 2013\Projects\TimeToTime\DayTests\bin\Debug\TimeToTime.xml
